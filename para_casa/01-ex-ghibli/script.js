@@ -24,3 +24,5 @@ const obj = [
 ]
 
 // FAÇA O EXERCÍCIO ABAIXO
+
+console.log('title', 'description')
