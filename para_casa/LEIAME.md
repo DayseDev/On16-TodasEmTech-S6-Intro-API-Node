@@ -3,8 +3,11 @@
 O termo CRUD vem das operações que podem ser executadas em um banco de dados:
 
 C - Create == CRIAR
+
 R - Read   == LER
+
 U - Update == ATUALIZAR
+
 D - Delete == EXCLUIR
 
 Quando temos uma tela que é capaz de ver, localizar e atualizar informações também é chamado CRUD.
@@ -12,8 +15,11 @@ Quando temos uma tela que é capaz de ver, localizar e atualizar informações t
 Esse conceito foi traduzido para operações do protocolo HTTP onde temos:
 
 C - Create == POST
+
 R - Read   == GET
+
 U - Update == PUT
+
 D - Delete == DELETE
 
 
